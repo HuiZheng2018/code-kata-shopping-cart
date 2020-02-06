@@ -25,3 +25,9 @@ Use the following pricing information:
 For example:
 - `'DABA'` gives `140`
 - `'BBBB'` gives `74`
+
+## My thinking
+
+Within the 2 hours allocated to me, I went with a simple solution.
+
+I created variables hold the total count for each item. Then I implemented the discount offers based on the total count for each items.
